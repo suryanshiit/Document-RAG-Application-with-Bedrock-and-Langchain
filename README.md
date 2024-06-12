@@ -1,1 +1,1 @@
-# Document-RAG-Application-with-Bedrock-and-Langchain
+# Document RAG Application with Bedrock and Langchain
